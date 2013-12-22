@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/client/douban
+END
+CollectionQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/client/douban/CollectionQuery.java
+END
+TagQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/client/douban/TagQuery.java
+END
+SubjectQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/client/douban/SubjectQuery.java
+END
+ReviewQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/client/douban/ReviewQuery.java
+END
+DoubanService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/client/douban/DoubanService.java
+END
+DoubanQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/client/douban/DoubanQuery.java
+END

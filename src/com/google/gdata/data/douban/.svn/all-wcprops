@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban
+END
+Subject.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/Subject.java
+END
+TagFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/TagFeed.java
+END
+UserEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/UserEntry.java
+END
+UserFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/UserFeed.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/Attribute.java
+END
+AbstractElementWithContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/AbstractElementWithContent.java
+END
+AbstractFreeTextExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/AbstractFreeTextExtension.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/Location.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/Tag.java
+END
+CollectionEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/CollectionEntry.java
+END
+Namespaces.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/Namespaces.java
+END
+CollectionFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/CollectionFeed.java
+END
+SubjectEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/SubjectEntry.java
+END
+Uid.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/Uid.java
+END
+MiniblogEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/MiniblogEntry.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/Status.java
+END
+ReviewEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/ReviewEntry.java
+END
+SubjectFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/SubjectFeed.java
+END
+MiniblogFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/MiniblogFeed.java
+END
+ReviewFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/ReviewFeed.java
+END
+NoteEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/NoteEntry.java
+END
+Count.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/Count.java
+END
+NoteFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/NoteFeed.java
+END
+TagEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mydouban/!svn/ver/3/trunk/mydouban/src/com/google/gdata/data/douban/TagEntry.java
+END
