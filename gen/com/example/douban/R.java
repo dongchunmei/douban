@@ -26,22 +26,36 @@ public final class R {
     }
     public static final class drawable {
         public static final int background=0x7f020000;
-        public static final int cat=0x7f020001;
-        public static final int cat_on=0x7f020002;
-        public static final int category_selector=0x7f020003;
-        public static final int ic_launcher=0x7f020004;
-        public static final int tab_main_nav_search=0x7f020005;
+        public static final int book=0x7f020001;
+        public static final int cat=0x7f020002;
+        public static final int cat_on=0x7f020003;
+        public static final int category_selector=0x7f020004;
+        public static final int ic_launcher=0x7f020005;
+        public static final int tab_main_nav_search=0x7f020006;
     }
     public static final class id {
+        public static final int book_description=0x7f08000c;
+        public static final int book_img=0x7f080009;
+        public static final int book_title=0x7f08000b;
         public static final int content=0x7f080000;
+        public static final int list=0x7f080004;
+        public static final int list_item_layout=0x7f080008;
+        public static final int loading=0x7f080005;
+        public static final int mainRL=0x7f080003;
+        public static final int progress=0x7f080006;
+        public static final int ratingbar=0x7f08000a;
+        public static final int search_button=0x7f080002;
+        public static final int search_text=0x7f080001;
+        public static final int txt_loading=0x7f080007;
     }
     public static final class layout {
         public static final int activity_auth=0x7f030000;
         public static final int activity_douban=0x7f030001;
-        public static final int book_view=0x7f030002;
-        public static final int review=0x7f030003;
-        public static final int review_edit=0x7f030004;
-        public static final int review_view=0x7f030005;
+        public static final int book_item=0x7f030002;
+        public static final int book_view=0x7f030003;
+        public static final int review=0x7f030004;
+        public static final int review_edit=0x7f030005;
+        public static final int review_view=0x7f030006;
     }
     public static final class string {
         public static final int app_name=0x7f060000;
