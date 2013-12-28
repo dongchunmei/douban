@@ -1,8 +1,14 @@
 package com.example.douban.entity;
 
+import java.io.Serializable;
+
 import android.graphics.Bitmap;
 
-public class Review {
+public class Review implements Serializable {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private String url;
 	private String title;
 	private String published;

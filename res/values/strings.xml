@@ -5,6 +5,11 @@
     <string name="book_search_hint">书籍、作者、关键字</string>
     <string name="search">搜索</string>
     <string name="loading">正在加载...</string>
+    <string name="bookInfo">书籍信息</string>
+    <string name="btnShowComment">查看评论</string>
+    <string name="order_rule">热门评论</string>
+    <string name="order_rule_new">最新评论</string>
+    <string name="new_review">我要评论</string>
     <string name="todo">封面</string>
 
 </resources>
