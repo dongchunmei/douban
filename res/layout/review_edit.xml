@@ -2,6 +2,99 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
+    android:background="@drawable/background"
     android:orientation="vertical" >
+
+    <include layout="@layout/titlebar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"
+        android:paddingBottom="10dip"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip"
+        android:scrollbars="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/section1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/transparent_half" >
+
+            <TextView
+                android:id="@+id/txtTitle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/review_info" />
+
+            <RelativeLayout
+                android:id="@+id/wrapper"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_below="@id/txtTitle"
+                android:paddingTop="30dip" >
+
+                <EditText
+                    android:id="@+id/EdtReviewTitle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:drawable/editbox_background"
+                    android:hint="@string/review_title"
+                    android:minHeight="40dip" >
+
+                </EditText>
+
+                <RatingBar
+                    android:id="@+id/ratingbar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/EdtReviewTitle"
+                    android:layout_marginLeft="5dip"
+                    android:numStars="5"
+                    android:stepSize="1" />
+
+                <EditText
+                    android:id="@+id/EdtReviewContent"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_above="@+id/linear"
+                    android:layout_below="@id/ratingbar"
+                    android:background="@android:drawable/editbox_background"
+                    android:gravity="top"
+                    android:hint="@string/review_content" >
+
+                </EditText>
+
+                <LinearLayout
+                    android:id="@+id/linear"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="center"
+                    android:paddingTop="10dip" >
+
+                    <Button
+                        android:id="@+id/btnSave"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/wp_button_small"
+                        android:text="@string/btnSave"
+                        android:width="100dp" >
+                    </Button>
+
+                    <Button
+                        android:id="@+id/btnCancel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/wp_button_small"
+                        android:text="@string/btnCancel"
+                        android:width="100dp" >
+                    </Button>
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
 
 </LinearLayout>

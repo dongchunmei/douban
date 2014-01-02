@@ -3,7 +3,11 @@
     android:id="@+id/content"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFF5F5F5"
+    android:background="@drawable/background"
     android:orientation="vertical" >
+
+    <include
+        android:layout_alignParentTop="true"
+        layout="@layout/titlebar" />
 
 </RelativeLayout>

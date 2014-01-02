@@ -10,6 +10,11 @@
     <string name="order_rule">热门评论</string>
     <string name="order_rule_new">最新评论</string>
     <string name="new_review">我要评论</string>
+    <string name="review_info">评论</string>
+    <string name="review_title">评论标题</string>
+    <string name="review_content">评论内容</string>
+    <string name="btnSave">保存</string>
+    <string name="btnCancel">取消</string>
     <string name="todo">封面</string>
 
 </resources>
